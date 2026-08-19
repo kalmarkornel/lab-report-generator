@@ -1,0 +1,33 @@
+FŐ FÁJLOK
+
+app/ProtocolWidget.tsx
+  A React-alapú jegyzőkönyv-választó és az Enzimtisztítás űrlapja.
+
+app/AdditionalProtocolForms.tsx
+  Az Electrospinning, Platereader és Zetasizer űrlapjai.
+
+app/pdfExport.ts
+  A négy jegyzőkönyvtípus PDF-generálása.
+
+app/protocolTypes.ts
+  A jegyzőkönyvtípusok nevei és szakaszai.
+
+app/globals.css
+  A teljes NanoBioTech megjelenés és a nyomtatható táblázatok stílusa.
+
+app/vendor/pdf-lib.js
+  A PDF-fájl előállításához használt helyi modul.
+
+public/nanobio-logo.png
+  A háttér nélküli NanoBioTech logó.
+
+work/preview.html
+work/static-app.js
+work/pdfExport.browser.mjs
+work/protocolTypes.qa.mjs
+work/preview_server.py
+  A függőségtelepítés nélkül használható helyi tesztváltozat fájljai.
+
+outputs/*.pdf
+  A három új jegyzőkönyv ellenőrzött minta-PDF-jei.
+

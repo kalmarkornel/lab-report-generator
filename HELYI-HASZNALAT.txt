@@ -1,0 +1,22 @@
+LAB REPORT GENERATOR – HELYI HASZNÁLAT
+
+1. Kattints duplán a START-LAB-REPORT-GENERATOR.cmd fájlra.
+2. A böngészőben megnyílik a http://localhost:3000/ oldal.
+3. A bal oldali listából választható:
+   - Enzimtisztítás
+   - Electrospinning
+   - Platereader
+   - Zetasizer
+4. A Mentés gomb a böngésző helyi tárhelyére menti az adott jegyzőkönyv piszkozatát.
+5. A Lezárás és PDF letöltése gomb elkészíti és letölti a PDF-et.
+
+Az indítóablakot a használat végéig nyitva kell hagyni. Bezárásával a helyi
+tesztoldal leáll, de a már elmentett böngészős piszkozatok nem törlődnek.
+
+FONTOS
+
+- A jelenlegi verzió helyben működik, külső adatbázis nélkül.
+- A PDF automatikus ClickUp-feltöltése még nincs bekötve.
+- A fejlesztési forrás az app mappában található.
+- A közvetlenül megnyitható helyi tesztoldal fájljai a work mappában vannak.
+
